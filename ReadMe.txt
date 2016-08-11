@@ -8,7 +8,7 @@ http://www.wfuyu.com/technology/24705.html
 https://buildroot.org/docs.html
 https://linuxtoy.org/archives/allwinner-debian.html
 http://developer.t-firefly.com/thread-707-1-1.html
-
+http://blog.csdn.net/jiangdou88/article/details/49183985
 
 ubuntu, fedora, debian太过庞大了，你是否想完完全全的构建自己的embedded linux系统？本篇文章教你如何实现
 
