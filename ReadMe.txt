@@ -4,7 +4,10 @@ http://www.arm9home.net/read.php?tid-5610.html
 http://docs.cubieboard.org/tutorials/ct1/development/booting_from_usb_otg_port
 http://linux-sunxi.org/FEL/USBBoot
 http://my.oschina.net/f839903061/blog/208107
-
+http://www.wfuyu.com/technology/24705.html
+https://buildroot.org/docs.html
+https://linuxtoy.org/archives/allwinner-debian.html
+http://developer.t-firefly.com/thread-707-1-1.html
 
 
 ubuntu, fedora, debian太过庞大了，你是否想完完全全的构建自己的embedded linux系统？本篇文章教你如何实现
